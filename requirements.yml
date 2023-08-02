@@ -4,8 +4,5 @@ collections:
   - name: arista.avd
     version: 4.2.0
 
-  - name: arista.cvp
-    version: 3.6.1
-
   - name: community.general
     version: 6.5.0
