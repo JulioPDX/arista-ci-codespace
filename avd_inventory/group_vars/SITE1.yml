@@ -65,4 +65,4 @@ p2p_uplinks_mtu: 1500
 cv_collection: v3
 # set to true if tasks have to be auto-executed
 # false is generally better for demo
-execute_tasks: false
+execute_tasks: true
