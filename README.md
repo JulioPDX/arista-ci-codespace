@@ -11,7 +11,7 @@ It differs from the original [CI repository](https://github.com/aristanetworks/c
 For the workflow to work, Github secret `CVP_PASSWORD` must be set to ATD password.  
 `inventory.yml` must be updated with:
 
-```
+```yaml
 ---
 SITE1:
   children:
